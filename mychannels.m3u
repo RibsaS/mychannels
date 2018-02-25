@@ -161,8 +161,10 @@ http://p4.giffy.be:8080/live/test12345/test12345/31317.ts
 http://p4.giffy.be:8080/live/test12345/test12345/31316.ts
 #EXTINF:-1,BEIN SPORTS 5HD
 http://p4.giffy.be:8080/live/test12345/test12345/31315.ts
-#EXTINF:-1,AR: BEIN SPORTS 6HD
+#EXTINF:-1,AR: BEIN SPORTS 6HD TS
 http://p4.giffy.be:8080/live/test12345/test12345/31314.ts
+#EXTINF:-1,AR: BEIN SPORTS 6HD m3u8
+http://p4.giffy.be:8080/live/test12345/test12345/31314.m3u8
 #EXTINF:-1,BEIN SPORTS 7HD
 http://p4.giffy.be:8080/live/test12345/test12345/31313.ts
 #EXTINF:-1,BEIN SPORTS 8HD
@@ -385,8 +387,10 @@ http://ezhosting.xyz:80/live/curtis/curtis/44620.ts
 http://ezhosting.xyz:80/live/curtis/curtis/44619.ts
 #EXTINF:-1,AR: BEIN SPORTS HD 5
 http://ezhosting.xyz:80/live/curtis/curtis/44618.ts
-#EXTINF:-1,AR: BEIN SPORTS HD 6
+#EXTINF:-1,AR: BEIN SPORTS HD 6 TS
 http://ezhosting.xyz:80/live/curtis/curtis/44617.ts
+#EXTINF:-1,AR: BEIN SPORTS HD 6 m3u8
+http://ezhosting.xyz:80/live/curtis/curtis/44617.m3u8
 #EXTINF:-1,AR: BEIN SPORTS HD 7
 http://ezhosting.xyz:80/live/curtis/curtis/44616.ts
 #EXTINF:-1,AR: BEIN SPORTS HD 8
